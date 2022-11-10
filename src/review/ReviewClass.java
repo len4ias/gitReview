@@ -7,4 +7,8 @@ public class ReviewClass {
 
 	}
 
+	public void test() {
+		System.out.println("Thismethod is on reviewS branch");
+	}
+	
 }
